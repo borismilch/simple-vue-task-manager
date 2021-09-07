@@ -237,6 +237,7 @@ h3 {
     position: relative;
     text-overflow: ellipsis;
     white-space: nowrap;
+    overscroll-behavior: none;
     overflow: hidden;
 
 }
